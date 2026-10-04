@@ -1,0 +1,6 @@
+@ThreeTierArchitechureExample_HostAddress = http://localhost:5082
+
+GET {{ThreeTierArchitechureExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
